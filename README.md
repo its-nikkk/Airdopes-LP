@@ -1,7 +1,3 @@
-# TWSIP
-Sure, here is a README file for uploading on GitHub for Boat Airdopes 500 ANC landing page:
-
-
 # Boat Airdopes 500 ANC Landing Page
 
 This is the landing page for the Boat Airdopes 500 ANC, a wireless earbuds product from Boat with Active Noise Cancellation (ANC) feature.
